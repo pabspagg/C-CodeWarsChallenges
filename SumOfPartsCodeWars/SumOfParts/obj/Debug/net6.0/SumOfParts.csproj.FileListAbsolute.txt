@@ -1,0 +1,15 @@
+C:\Users\Pablo Spaggiari\Desktop\ProjetosC\SumOfPartsCodeWars\SumOfParts\bin\Debug\net6.0\SumOfParts.exe
+C:\Users\Pablo Spaggiari\Desktop\ProjetosC\SumOfPartsCodeWars\SumOfParts\bin\Debug\net6.0\SumOfParts.deps.json
+C:\Users\Pablo Spaggiari\Desktop\ProjetosC\SumOfPartsCodeWars\SumOfParts\bin\Debug\net6.0\SumOfParts.runtimeconfig.json
+C:\Users\Pablo Spaggiari\Desktop\ProjetosC\SumOfPartsCodeWars\SumOfParts\bin\Debug\net6.0\SumOfParts.dll
+C:\Users\Pablo Spaggiari\Desktop\ProjetosC\SumOfPartsCodeWars\SumOfParts\bin\Debug\net6.0\ref\SumOfParts.dll
+C:\Users\Pablo Spaggiari\Desktop\ProjetosC\SumOfPartsCodeWars\SumOfParts\bin\Debug\net6.0\SumOfParts.pdb
+C:\Users\Pablo Spaggiari\Desktop\ProjetosC\SumOfPartsCodeWars\SumOfParts\obj\Debug\net6.0\SumOfParts.csproj.AssemblyReference.cache
+C:\Users\Pablo Spaggiari\Desktop\ProjetosC\SumOfPartsCodeWars\SumOfParts\obj\Debug\net6.0\SumOfParts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pablo Spaggiari\Desktop\ProjetosC\SumOfPartsCodeWars\SumOfParts\obj\Debug\net6.0\SumOfParts.AssemblyInfoInputs.cache
+C:\Users\Pablo Spaggiari\Desktop\ProjetosC\SumOfPartsCodeWars\SumOfParts\obj\Debug\net6.0\SumOfParts.AssemblyInfo.cs
+C:\Users\Pablo Spaggiari\Desktop\ProjetosC\SumOfPartsCodeWars\SumOfParts\obj\Debug\net6.0\SumOfParts.csproj.CoreCompileInputs.cache
+C:\Users\Pablo Spaggiari\Desktop\ProjetosC\SumOfPartsCodeWars\SumOfParts\obj\Debug\net6.0\SumOfParts.dll
+C:\Users\Pablo Spaggiari\Desktop\ProjetosC\SumOfPartsCodeWars\SumOfParts\obj\Debug\net6.0\ref\SumOfParts.dll
+C:\Users\Pablo Spaggiari\Desktop\ProjetosC\SumOfPartsCodeWars\SumOfParts\obj\Debug\net6.0\SumOfParts.pdb
+C:\Users\Pablo Spaggiari\Desktop\ProjetosC\SumOfPartsCodeWars\SumOfParts\obj\Debug\net6.0\SumOfParts.genruntimeconfig.cache

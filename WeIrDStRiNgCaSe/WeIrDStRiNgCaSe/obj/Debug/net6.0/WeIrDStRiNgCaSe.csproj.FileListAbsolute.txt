@@ -1,0 +1,15 @@
+C:\Users\Pablo Spaggiari\Desktop\ProjetosC\WeIrDStRiNgCaSe\WeIrDStRiNgCaSe\bin\Debug\net6.0\WeIrDStRiNgCaSe.exe
+C:\Users\Pablo Spaggiari\Desktop\ProjetosC\WeIrDStRiNgCaSe\WeIrDStRiNgCaSe\bin\Debug\net6.0\WeIrDStRiNgCaSe.deps.json
+C:\Users\Pablo Spaggiari\Desktop\ProjetosC\WeIrDStRiNgCaSe\WeIrDStRiNgCaSe\bin\Debug\net6.0\WeIrDStRiNgCaSe.runtimeconfig.json
+C:\Users\Pablo Spaggiari\Desktop\ProjetosC\WeIrDStRiNgCaSe\WeIrDStRiNgCaSe\bin\Debug\net6.0\WeIrDStRiNgCaSe.dll
+C:\Users\Pablo Spaggiari\Desktop\ProjetosC\WeIrDStRiNgCaSe\WeIrDStRiNgCaSe\bin\Debug\net6.0\ref\WeIrDStRiNgCaSe.dll
+C:\Users\Pablo Spaggiari\Desktop\ProjetosC\WeIrDStRiNgCaSe\WeIrDStRiNgCaSe\bin\Debug\net6.0\WeIrDStRiNgCaSe.pdb
+C:\Users\Pablo Spaggiari\Desktop\ProjetosC\WeIrDStRiNgCaSe\WeIrDStRiNgCaSe\obj\Debug\net6.0\WeIrDStRiNgCaSe.csproj.AssemblyReference.cache
+C:\Users\Pablo Spaggiari\Desktop\ProjetosC\WeIrDStRiNgCaSe\WeIrDStRiNgCaSe\obj\Debug\net6.0\WeIrDStRiNgCaSe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pablo Spaggiari\Desktop\ProjetosC\WeIrDStRiNgCaSe\WeIrDStRiNgCaSe\obj\Debug\net6.0\WeIrDStRiNgCaSe.AssemblyInfoInputs.cache
+C:\Users\Pablo Spaggiari\Desktop\ProjetosC\WeIrDStRiNgCaSe\WeIrDStRiNgCaSe\obj\Debug\net6.0\WeIrDStRiNgCaSe.AssemblyInfo.cs
+C:\Users\Pablo Spaggiari\Desktop\ProjetosC\WeIrDStRiNgCaSe\WeIrDStRiNgCaSe\obj\Debug\net6.0\WeIrDStRiNgCaSe.csproj.CoreCompileInputs.cache
+C:\Users\Pablo Spaggiari\Desktop\ProjetosC\WeIrDStRiNgCaSe\WeIrDStRiNgCaSe\obj\Debug\net6.0\WeIrDStRiNgCaSe.dll
+C:\Users\Pablo Spaggiari\Desktop\ProjetosC\WeIrDStRiNgCaSe\WeIrDStRiNgCaSe\obj\Debug\net6.0\ref\WeIrDStRiNgCaSe.dll
+C:\Users\Pablo Spaggiari\Desktop\ProjetosC\WeIrDStRiNgCaSe\WeIrDStRiNgCaSe\obj\Debug\net6.0\WeIrDStRiNgCaSe.pdb
+C:\Users\Pablo Spaggiari\Desktop\ProjetosC\WeIrDStRiNgCaSe\WeIrDStRiNgCaSe\obj\Debug\net6.0\WeIrDStRiNgCaSe.genruntimeconfig.cache

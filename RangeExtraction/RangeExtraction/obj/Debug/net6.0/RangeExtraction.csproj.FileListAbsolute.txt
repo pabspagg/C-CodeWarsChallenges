@@ -1,0 +1,14 @@
+C:\Users\Pablo Spaggiari\Desktop\ProjetosC\RangeExtraction\RangeExtraction\bin\Debug\net6.0\RangeExtraction.exe
+C:\Users\Pablo Spaggiari\Desktop\ProjetosC\RangeExtraction\RangeExtraction\bin\Debug\net6.0\RangeExtraction.deps.json
+C:\Users\Pablo Spaggiari\Desktop\ProjetosC\RangeExtraction\RangeExtraction\bin\Debug\net6.0\RangeExtraction.runtimeconfig.json
+C:\Users\Pablo Spaggiari\Desktop\ProjetosC\RangeExtraction\RangeExtraction\bin\Debug\net6.0\RangeExtraction.dll
+C:\Users\Pablo Spaggiari\Desktop\ProjetosC\RangeExtraction\RangeExtraction\bin\Debug\net6.0\ref\RangeExtraction.dll
+C:\Users\Pablo Spaggiari\Desktop\ProjetosC\RangeExtraction\RangeExtraction\bin\Debug\net6.0\RangeExtraction.pdb
+C:\Users\Pablo Spaggiari\Desktop\ProjetosC\RangeExtraction\RangeExtraction\obj\Debug\net6.0\RangeExtraction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pablo Spaggiari\Desktop\ProjetosC\RangeExtraction\RangeExtraction\obj\Debug\net6.0\RangeExtraction.AssemblyInfoInputs.cache
+C:\Users\Pablo Spaggiari\Desktop\ProjetosC\RangeExtraction\RangeExtraction\obj\Debug\net6.0\RangeExtraction.AssemblyInfo.cs
+C:\Users\Pablo Spaggiari\Desktop\ProjetosC\RangeExtraction\RangeExtraction\obj\Debug\net6.0\RangeExtraction.csproj.CoreCompileInputs.cache
+C:\Users\Pablo Spaggiari\Desktop\ProjetosC\RangeExtraction\RangeExtraction\obj\Debug\net6.0\RangeExtraction.dll
+C:\Users\Pablo Spaggiari\Desktop\ProjetosC\RangeExtraction\RangeExtraction\obj\Debug\net6.0\ref\RangeExtraction.dll
+C:\Users\Pablo Spaggiari\Desktop\ProjetosC\RangeExtraction\RangeExtraction\obj\Debug\net6.0\RangeExtraction.pdb
+C:\Users\Pablo Spaggiari\Desktop\ProjetosC\RangeExtraction\RangeExtraction\obj\Debug\net6.0\RangeExtraction.genruntimeconfig.cache

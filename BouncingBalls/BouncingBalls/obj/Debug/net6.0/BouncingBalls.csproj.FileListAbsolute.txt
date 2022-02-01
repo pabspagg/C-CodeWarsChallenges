@@ -1,0 +1,14 @@
+C:\Users\Pablo Spaggiari\Desktop\ProjetosC\BouncingBalls\BouncingBalls\bin\Debug\net6.0\BouncingBalls.exe
+C:\Users\Pablo Spaggiari\Desktop\ProjetosC\BouncingBalls\BouncingBalls\bin\Debug\net6.0\BouncingBalls.deps.json
+C:\Users\Pablo Spaggiari\Desktop\ProjetosC\BouncingBalls\BouncingBalls\bin\Debug\net6.0\BouncingBalls.runtimeconfig.json
+C:\Users\Pablo Spaggiari\Desktop\ProjetosC\BouncingBalls\BouncingBalls\bin\Debug\net6.0\BouncingBalls.dll
+C:\Users\Pablo Spaggiari\Desktop\ProjetosC\BouncingBalls\BouncingBalls\bin\Debug\net6.0\ref\BouncingBalls.dll
+C:\Users\Pablo Spaggiari\Desktop\ProjetosC\BouncingBalls\BouncingBalls\bin\Debug\net6.0\BouncingBalls.pdb
+C:\Users\Pablo Spaggiari\Desktop\ProjetosC\BouncingBalls\BouncingBalls\obj\Debug\net6.0\BouncingBalls.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pablo Spaggiari\Desktop\ProjetosC\BouncingBalls\BouncingBalls\obj\Debug\net6.0\BouncingBalls.AssemblyInfoInputs.cache
+C:\Users\Pablo Spaggiari\Desktop\ProjetosC\BouncingBalls\BouncingBalls\obj\Debug\net6.0\BouncingBalls.AssemblyInfo.cs
+C:\Users\Pablo Spaggiari\Desktop\ProjetosC\BouncingBalls\BouncingBalls\obj\Debug\net6.0\BouncingBalls.csproj.CoreCompileInputs.cache
+C:\Users\Pablo Spaggiari\Desktop\ProjetosC\BouncingBalls\BouncingBalls\obj\Debug\net6.0\BouncingBalls.dll
+C:\Users\Pablo Spaggiari\Desktop\ProjetosC\BouncingBalls\BouncingBalls\obj\Debug\net6.0\ref\BouncingBalls.dll
+C:\Users\Pablo Spaggiari\Desktop\ProjetosC\BouncingBalls\BouncingBalls\obj\Debug\net6.0\BouncingBalls.pdb
+C:\Users\Pablo Spaggiari\Desktop\ProjetosC\BouncingBalls\BouncingBalls\obj\Debug\net6.0\BouncingBalls.genruntimeconfig.cache
